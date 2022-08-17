@@ -1,6 +1,6 @@
 {
     "name": "Kolektivo Tokenlist",
-    "timestamp": "2022-08-16T22:12:01+00:00",
+    "timestamp": "2022-08-16T22:25:12+00:00",
     "version": {
         "major": 1,
         "minor": 0,
@@ -17,7 +17,7 @@
             "name": "Kolektivo Treasury Token",
             "symbol": "KTT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/ktt.svg"
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/ktt.svg"
         },
         {
             "address": "0x65F0B6a36B850a12B06E5492dF4e13659A996796",
@@ -25,7 +25,7 @@
             "name": "Kolektivo Curacao Token",
             "symbol": "kCUR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kcur.svg"
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/kcur.svg"
         },
         {
             "address": "0xD5A8842F698D6170661376880b5aE20C17fD1FC3",
@@ -33,7 +33,7 @@
             "name": "Test Token #1",
             "symbol": "TT1",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/tt1.svg"
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
         },
         {
             "address": "0xc7D7407684c121d92f50440fC50353aefF6617b8",
@@ -42,7 +42,7 @@
             "symbol": "GEO1",
             "decimals": 1,
             "id": 1,
-            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/geo1.svg"
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/geo1.svg"
         }
     ]
 }
