@@ -1,0 +1,48 @@
+{
+    "name": "Kolektivo Tokenlist",
+    "timestamp": "2022-08-16T22:12:01+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "kolektivo",
+        "tokens"
+    ],
+    "tokens": [
+        {
+            "address": "0x7521197233BD9235D2E39ad8D3D77c2843b2E837",
+            "chainId": 44787,
+            "name": "Kolektivo Treasury Token",
+            "symbol": "KTT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/ktt.svg"
+        },
+        {
+            "address": "0x65F0B6a36B850a12B06E5492dF4e13659A996796",
+            "chainId": 44787,
+            "name": "Kolektivo Curacao Token",
+            "symbol": "kCUR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kcur.svg"
+        },
+        {
+            "address": "0xD5A8842F698D6170661376880b5aE20C17fD1FC3",
+            "chainId": 44787,
+            "name": "Test Token #1",
+            "symbol": "TT1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/tt1.svg"
+        },
+        {
+            "address": "0xc7D7407684c121d92f50440fC50353aefF6617b8",
+            "chainId": 44787,
+            "name": "GeoNFT #1",
+            "symbol": "GEO1",
+            "decimals": 1,
+            "id": 1,
+            "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/geo1.svg"
+        }
+    ]
+}
