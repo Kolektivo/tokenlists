@@ -3,7 +3,7 @@
     "timestamp": "2022-08-16T22:25:12+00:00",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "tokens": [
         {
-            "address": "0x7521197233BD9235D2E39ad8D3D77c2843b2E837",
+            "address": "0x030Cd6F06FFf3728ac7bF50EF7b2a38DFD517237",
             "chainId": 44787,
             "name": "Kolektivo Treasury Token",
             "symbol": "KTT",
@@ -20,7 +20,7 @@
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/ktt.svg"
         },
         {
-            "address": "0x65F0B6a36B850a12B06E5492dF4e13659A996796",
+            "address": "0x6f10D2FbcBEa5908bc0d4ed3656E61c29Db9c324",
             "chainId": 44787,
             "name": "Kolektivo Curacao Token",
             "symbol": "kCUR",
@@ -28,10 +28,26 @@
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/kcur.svg"
         },
         {
-            "address": "0xD5A8842F698D6170661376880b5aE20C17fD1FC3",
+            "address": "0x434f234916Bbf0190BE3f058DeD9d8889953c4b4",
             "chainId": 44787,
             "name": "Test Token #1",
             "symbol": "TT1",
+            "decimals": 18,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
+        },
+        {
+            "address": "0xd4482BAEa5c6426687a8F66de80bb857fE1942f1",
+            "chainId": 44787,
+            "name": "Test Token #2",
+            "symbol": "TT2",
+            "decimals": 18,
+            "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
+        },
+        {
+            "address": "0x290DB975a9Aa2cb6e34FC0A09794945B383d7cCE",
+            "chainId": 44787,
+            "name": "Test Token #3",
+            "symbol": "TT3",
             "decimals": 18,
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
         },
