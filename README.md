@@ -1,6 +1,6 @@
 # Kolektivo Token List
 ## Overview
-This repository contains all the references and identifiers of the tokens used in the Kolektivo Framework.
+This repository contains all the references and identifiers of the tokens used by other parts of the stack in the Kolektivo Framework.
 
 The Kolektivo Network Token (KNT) bridges liquidity between trading pairs and community economies in Kolektivo’s broader ecosystem. It ultimately facilitates exchange between the many assets that the Kolektivo Framework will produce and support, such as ecological assets, community currencies, and local reserve tokens. KNT affords certain network governance rights.
 
