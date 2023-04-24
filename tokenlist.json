@@ -31,10 +31,10 @@
       "decimals": 18
     },
     {
-      "address": "0x4cB13ED364bd2c212B694921CdAca979DCA76054",
+      "address": "0xE858F83EB705F84aC7997839625D0Efd87cf60b5",
       "chainId": 42229,
-      "name": "Test Token #1",
-      "symbol": "TT1",
+      "name": "cUSD Mock",
+      "symbol": "cUSD-M",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
     },
