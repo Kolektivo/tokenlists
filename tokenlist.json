@@ -35,8 +35,14 @@
       "chainId": 42229,
       "name": "cUSD Mock",
       "symbol": "cUSD-M",
-      "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
+      "decimals": 18
+    },
+    {
+      "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+      "chainId": 42229,
+      "name": "Celo Dollar",
+      "symbol": "cUSD",
+      "decimals": 18
     },
     {
       "address": "0x5bFE78b0d15eF0cdcA4077336e0bEbEc15CFb142",
