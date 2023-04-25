@@ -54,7 +54,7 @@
       "name": "HighRiskToken",
       "symbol": "HRT",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/geo1.svg"
+      "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/geo1.svg"
     },
     {
       "address": "0xc691AE78a7dC8ebba37250c5A0840BbbC45eC3eB",
@@ -62,7 +62,7 @@
       "name": "MedRiskToken",
       "symbol": "MRT",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmcRYtXPMK54EtwzPqP3Bs59x7oQzNN8X5X3oMZFHe1SBj/tt1.svg"
+      "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/tt1.svg"
     },
     {
       "address": "0x5bFE78b0d15eF0cdcA4077336e0bEbEc15CFb142",
