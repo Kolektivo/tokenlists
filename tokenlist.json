@@ -22,15 +22,23 @@
       "name": "CuracaoReserveToken",
       "symbol": "kCUR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kG.svg"
+      "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kCUR.svg"
     },
     {
       "address": "0xA7631e5770B7c8B5BD02dEbfb0f3B0f70045C70F",
       "chainId": 42220,
       "name": "KolektivoGuilder",
-      "symbol": "kCUR",
+      "symbol": "kG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kCUR.svg"
+      "logoURI": " https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kG.svg"
+    },
+    {
+      "address": "0x629198134b4e85aE612Eef7A7931e68aEC68D777",
+      "chainId": 42220,
+      "name": "KolektivoGuilder-T",
+      "symbol": "kG-T",
+      "decimals": 18,
+      "logoURI": " https://raw.githubusercontent.com/Kolektivo/tokenlists/main/logos/kG.svg"
     },
     {
       "address": "0xE858F83EB705F84aC7997839625D0Efd87cf60b5",
